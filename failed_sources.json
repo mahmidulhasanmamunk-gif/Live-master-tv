@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T08:21:23Z",
+  "updated_at": "2026-11-20T08:55:57Z",
   "sources": {
     "mrgify-bdix": {
       "name": "Mrgify BDIX IPTV",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -15,8 +15,8 @@
       "name": "T Sports Playlist Auto Update",
       "url": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/universal_player.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -25,8 +25,8 @@
       "name": "Ayna Playlists Free Version",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Ayna-Playlists-free-Version/refs/heads/main/playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -35,8 +35,8 @@
       "name": "Toffee BD",
       "url": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -45,8 +45,8 @@
       "name": "iptv-org Bangladesh",
       "url": "https://iptv-org.github.io/iptv/countries/bd.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -55,8 +55,8 @@
       "name": "iptv-org Bengali language",
       "url": "https://iptv-org.github.io/iptv/languages/ben.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -65,8 +65,8 @@
       "name": "Free-TV IPTV (free-to-air broadcasters)",
       "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
       "status": "ok",
-      "last_attempt": "2026-11-20T08:21:23Z",
-      "last_success": "2026-11-20T08:21:23Z",
+      "last_attempt": "2026-11-20T08:55:57Z",
+      "last_success": "2026-11-20T08:55:57Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
