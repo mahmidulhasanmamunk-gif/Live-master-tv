@@ -72,6 +72,7 @@ DEFAULT_SETTINGS = {
     "recheck_ok_minutes": 90,
     "failure_threshold": 3,
     "drop_failed_channels": False,
+    "only_working_in_master": False,
     "embed_alternatives_in_master": False,
     "proxy_base_url": "",
     "fuzzy_threshold": 0.92,
@@ -882,6 +883,14 @@ def is_confirmed_failed(stream: dict, settings: dict) -> bool:
     return stream["status"] == "fail" and int(stream.get("fail_count", 0)) >= int(settings["failure_threshold"])
 
 
+def is_working(stream: dict, settings: dict) -> bool:
+    """যাচাইয়ে কার্যকর। একবারের সাময়িক ব্যর্থতায় (আগে কার্যকর ছিল) Stream সঙ্গে সঙ্গে বাদ যায় না।"""
+    if stream["status"] == "ok":
+        return True
+    return (stream["status"] == "fail" and bool(stream.get("last_ok"))
+            and int(stream.get("fail_count", 0)) < int(settings["failure_threshold"]))
+
+
 def sort_streams(channels: list[Channel], settings: dict) -> None:
     for ch in channels:
         # সর্বশেষ যাচাইয়ে ব্যর্থ Stream পিছনে যায়; নিশ্চিতভাবে ব্যর্থ (পরপর N বার) সবচেয়ে পিছনে। বাকিগুলো Source Priority অনুযায়ী।
@@ -916,7 +925,11 @@ def render_playlist(channel_dicts: list[dict], settings: dict, mode: str = "dire
         streams = ch.get("streams", [])
         if not streams:
             continue
-        if settings.get("drop_failed_channels") and all(is_confirmed_failed(s, settings) for s in streams):
+        if mode == "direct" and settings.get("only_working_in_master"):
+            streams = [s for s in streams if is_working(s, settings)]
+            if not streams:
+                continue
+        elif settings.get("drop_failed_channels") and all(is_confirmed_failed(s, settings) for s in streams):
             continue
         name = _attr(ch["name"])
         lines.append(
