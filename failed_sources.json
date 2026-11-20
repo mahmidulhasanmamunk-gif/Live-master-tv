@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T17:10:12Z",
+  "updated_at": "2026-11-20T23:17:17Z",
   "sources": {
     "mrgify-bdix": {
       "name": "Mrgify BDIX IPTV",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T17:10:12Z",
-      "last_success": "2026-11-20T17:10:12Z",
+      "last_attempt": "2026-11-20T23:17:17Z",
+      "last_success": "2026-11-20T23:17:17Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -15,8 +15,8 @@
       "name": "T Sports Playlist Auto Update",
       "url": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/universal_player.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T17:10:12Z",
-      "last_success": "2026-11-20T17:10:12Z",
+      "last_attempt": "2026-11-20T23:17:17Z",
+      "last_success": "2026-11-20T23:17:17Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -25,8 +25,8 @@
       "name": "Ayna Playlists Free Version",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Ayna-Playlists-free-Version/refs/heads/main/playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T17:10:12Z",
-      "last_success": "2026-11-20T17:10:12Z",
+      "last_attempt": "2026-11-20T23:17:17Z",
+      "last_success": "2026-11-20T23:17:17Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -35,8 +35,8 @@
       "name": "Toffee BD",
       "url": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T17:10:12Z",
-      "last_success": "2026-11-20T17:10:12Z",
+      "last_attempt": "2026-11-20T23:17:17Z",
+      "last_success": "2026-11-20T23:17:17Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -45,8 +45,8 @@
       "name": "iptv-org Bangladesh",
       "url": "https://iptv-org.github.io/iptv/countries/bd.m3u",
       "status": "ok",
-      "last_attempt": "2026-11-20T17:10:12Z",
-      "last_success": "2026-11-20T17:10:12Z",
+      "last_attempt": "2026-11-20T23:17:17Z",
+      "last_success": "2026-11-20T23:17:17Z",
       "consecutive_failures": 0,
       "last_error": null,
       "using_cached_data": false
@@ -59,8 +59,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -69,8 +69,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
       "reason": "ssl_error",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -79,8 +79,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/Star-News/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -89,8 +89,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -99,8 +99,8 @@
       "source_id": "mrgify-bdix",
       "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -109,8 +109,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -119,8 +119,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -129,8 +129,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -139,8 +139,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://tvsen5.aynascope.net/atnbangla/index.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -149,8 +149,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -159,8 +159,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -169,8 +169,8 @@
       "source_id": "mrgify-bdix",
       "url": "http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -179,8 +179,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://mytvbangla.com/0.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -189,8 +189,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -199,8 +199,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
       "reason": "http_403_access_restricted",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -209,8 +209,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -219,8 +219,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -229,8 +229,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -239,8 +239,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8",
       "reason": "http_403_access_restricted",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -249,8 +249,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
       "reason": "http_403_access_restricted",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -259,8 +259,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -269,8 +269,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -279,8 +279,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -289,8 +289,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -299,8 +299,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
       "reason": "ssl_error",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -309,8 +309,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
       "reason": "http_458",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -319,8 +319,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -329,8 +329,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
       "reason": "segment_http_416",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -339,8 +339,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -349,8 +349,18 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
       "reason": "connection_error: ConnectionError",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
+      "confirmed_failed": false
+    },
+    {
+      "channel_id": "jalsha-movies",
+      "channel": "Jalsha Movies",
+      "source_id": "iptv-org-bd",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "http_404_not_found",
       "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -359,8 +369,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -369,8 +379,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
       "reason": "not_a_valid_playlist",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -379,8 +389,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -389,8 +399,8 @@
       "source_id": "mrgify-bdix",
       "url": "http://live.matribhumitv.com/music-bangla/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -399,8 +409,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -409,8 +419,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -419,8 +429,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -429,8 +439,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -439,8 +449,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/NICK/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -449,8 +459,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
       "reason": "playlist_has_no_segments",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -459,8 +469,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "timeout",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -469,8 +479,8 @@
       "source_id": "iptv-org-bd",
       "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
       "reason": "http_403_access_restricted",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -479,8 +489,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://cdn-4.pishow.tv/live/229/master.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -489,8 +499,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
       "reason": "http_403_access_restricted",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -499,8 +509,8 @@
       "source_id": "iptv-org-bd",
       "url": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8",
       "reason": "connection_error: ConnectionError",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     },
     {
@@ -509,8 +519,8 @@
       "source_id": "mrgify-bdix",
       "url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
       "reason": "http_404_not_found",
-      "fail_count": 1,
-      "last_checked": "2026-11-20T17:10:12Z",
+      "fail_count": 2,
+      "last_checked": "2026-11-20T23:17:17Z",
       "confirmed_failed": false
     }
   ]
