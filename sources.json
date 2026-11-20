@@ -4,11 +4,11 @@
     "fetch_timeout": 30,
     "fetch_retries": 3,
     "validate": true,
-    "validation_workers": 32,
+    "validation_workers": 48,
     "connect_timeout": 6,
     "read_timeout": 10,
     "validation_retries": 2,
-    "validation_time_budget_seconds": 780,
+    "validation_time_budget_seconds": 1200,
     "recheck_ok_minutes": 90,
     "failure_threshold": 3,
     "drop_failed_channels": false,
@@ -16,19 +16,59 @@
     "proxy_base_url": "",
     "fuzzy_threshold": 0.92,
     "min_source_shrink_ratio": 0.3,
-    "min_total_ratio": 0.5
+    "min_total_ratio": 0.5,
+    "only_working_in_master": true
   },
   "filters": {
-    "allowed_schemes": ["http", "https"],
-    "blocked_domains": ["aynaott.com", "toffeelive.com"],
-    "blocked_query_keys": [
-      "token", "tokens", "e", "u", "expires", "expire", "exp", "st", "sig", "signature",
-      "hdnea", "hdnts", "hmac", "auth", "authorization", "key", "apikey", "api_key",
-      "access_token", "jwt", "user", "username", "uid", "userid", "pass", "password",
-      "pwd", "md5", "policy", "key-pair-id", "x-amz-signature", "x-amz-credential",
-      "x-amz-security-token", "remote"
+    "allowed_schemes": [
+      "http",
+      "https"
     ],
-    "blocked_name_patterns": ["welcome to playz", "^off\\s*\\|", "\\bpromo\\b"],
+    "blocked_domains": [
+      "aynaott.com",
+      "toffeelive.com"
+    ],
+    "blocked_query_keys": [
+      "token",
+      "tokens",
+      "e",
+      "u",
+      "expires",
+      "expire",
+      "exp",
+      "st",
+      "sig",
+      "signature",
+      "hdnea",
+      "hdnts",
+      "hmac",
+      "auth",
+      "authorization",
+      "key",
+      "apikey",
+      "api_key",
+      "access_token",
+      "jwt",
+      "user",
+      "username",
+      "uid",
+      "userid",
+      "pass",
+      "password",
+      "pwd",
+      "md5",
+      "policy",
+      "key-pair-id",
+      "x-amz-signature",
+      "x-amz-credential",
+      "x-amz-security-token",
+      "remote"
+    ],
+    "blocked_name_patterns": [
+      "welcome to playz",
+      "^off\\s*\\|",
+      "\\bpromo\\b"
+    ],
     "allow_custom_headers": false,
     "exclude_radio": true
   },
@@ -73,14 +113,14 @@
       "name": "iptv-org Bengali language",
       "url": "https://iptv-org.github.io/iptv/languages/ben.m3u",
       "priority": 6,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "free-tv",
       "name": "Free-TV IPTV (free-to-air broadcasters)",
       "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
       "priority": 7,
-      "enabled": false
+      "enabled": true
     }
   ]
 }
