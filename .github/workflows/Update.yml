@@ -44,7 +44,8 @@ jobs:
         run: |
           git config user.name "iptv-master-bot"
           git config user.email "iptv-master-bot@users.noreply.github.com"
-          git add master.m3u master_failover.m3u channels.json failed_sources.json 2>/dev/null || true
+          git add -A -- master.m3u channels.json failed_sources.json
+          if [ -f master_failover.m3u ]; then git add master_failover.m3u; fi
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
