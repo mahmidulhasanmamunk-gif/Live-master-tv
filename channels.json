@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T00:17:06Z",
+    "generated_at": "2026-11-22T07:19:16Z",
     "category_order": [
       "Bangla News",
       "Sports",
@@ -32,15 +32,15 @@
       "Others": 15
     },
     "stream_status": {
-      "ok": 86,
-      "fail": 46,
+      "ok": 88,
+      "fail": 44,
       "unverified": 0
     },
     "validation": {
       "enabled": true,
       "candidates": 131,
       "checked": 131,
-      "failed": 46,
+      "failed": 44,
       "skipped_time_budget": 0,
       "network_anomaly": false
     },
@@ -131,10 +131,10 @@
           "reason": "connection_error: ConnectionError",
           "latency_ms": 22558,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -162,12 +162,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "ssl_error",
-          "latency_ms": 244,
+          "latency_ms": 211,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -197,11 +197,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 785,
+          "latency_ms": 703,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         },
         {
@@ -219,11 +219,11 @@
           "original_tvg_name": "Ekushey TV (480p)",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1943,
+          "latency_ms": 1616,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -252,11 +252,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 537,
+          "latency_ms": 782,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -285,11 +285,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1487,
+          "latency_ms": 1529,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -318,12 +318,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5250,
+          "latency_ms": 5212,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -351,12 +351,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 22561,
+          "latency_ms": 22572,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -384,12 +384,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5250,
+          "latency_ms": 5201,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         },
         {
           "url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
@@ -404,12 +404,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 850,
+          "latency_ms": 750,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -437,11 +437,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 515,
+          "latency_ms": 761,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -470,12 +470,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22594,
+          "latency_ms": 22610,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -503,12 +503,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 35185,
+          "latency_ms": 22805,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -536,12 +536,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22617,
+          "latency_ms": 22718,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -572,11 +572,11 @@
           "original_tvg_name": "Boishakhi TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 654,
+          "latency_ms": 579,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -606,11 +606,11 @@
           "original_tvg_name": "Channel S",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 444,
+          "latency_ms": 805,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -639,11 +639,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 536,
+          "latency_ms": 458,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -672,12 +672,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 1093,
+          "latency_ms": 1060,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -705,11 +705,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 160,
+          "latency_ms": 393,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -738,12 +738,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 262,
+          "latency_ms": 225,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -771,12 +771,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 586,
+          "latency_ms": 496,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -804,11 +804,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 486,
+          "latency_ms": 786,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -837,11 +837,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1587,
+          "latency_ms": 1110,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -870,12 +870,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22634,
+          "latency_ms": 22651,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -903,11 +903,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 533,
+          "latency_ms": 3066,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -939,11 +939,11 @@
           "original_tvg_name": "Rajdhani TV (1080p)",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 961,
+          "latency_ms": 1117,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -972,12 +972,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22589,
+          "latency_ms": 22623,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1006,11 +1006,11 @@
           "original_tvg_name": "Thikana",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1805,
+          "latency_ms": 1770,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1039,12 +1039,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 85,
+          "latency_ms": 97,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1072,12 +1072,12 @@
           "original_tvg_name": "ABC 7 Bay",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 100,
+          "latency_ms": 317,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1105,11 +1105,11 @@
           "original_tvg_name": "ABN",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 143,
+          "latency_ms": 445,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1138,11 +1138,11 @@
           "original_tvg_name": "AccuWeather",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 500,
+          "latency_ms": 547,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1171,11 +1171,11 @@
           "original_tvg_name": "Awaaz India",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 723,
+          "latency_ms": 945,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1204,12 +1204,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 869,
+          "latency_ms": 2152,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1237,11 +1237,11 @@
           "original_tvg_name": "BEK TV News",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1663,
+          "latency_ms": 997,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1270,11 +1270,11 @@
           "original_tvg_name": "Discover Pikstan",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 517,
+          "latency_ms": 793,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1304,11 +1304,11 @@
           "original_tvg_name": "DW News",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 143,
+          "latency_ms": 321,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1337,11 +1337,11 @@
           "original_tvg_name": "Fox Weather",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 434,
+          "latency_ms": 1239,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1370,11 +1370,11 @@
           "original_tvg_name": "India Today",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 2467,
+          "latency_ms": 1668,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1403,12 +1403,12 @@
           "original_tvg_name": "Iran Press",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 7395,
+          "latency_ms": 7516,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1436,11 +1436,11 @@
           "original_tvg_name": "News Nation",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 857,
+          "latency_ms": 1032,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1469,11 +1469,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 79,
+          "latency_ms": 287,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1502,11 +1502,11 @@
           "original_tvg_name": "Sky News Weather",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 744,
+          "latency_ms": 1144,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1536,12 +1536,12 @@
           "original_tvg_name": "Star News",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 1131,
+          "latency_ms": 959,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1569,11 +1569,11 @@
           "original_tvg_name": "TRT World",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1233,
+          "latency_ms": 435,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1602,11 +1602,11 @@
           "original_tvg_name": "Weather SPY",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 272,
+          "latency_ms": 607,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1635,11 +1635,11 @@
           "original_tvg_name": "Wion",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1259,
+          "latency_ms": 1344,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1668,11 +1668,11 @@
           "original_tvg_name": "Bahrain Sports 1",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 942,
+          "latency_ms": 1250,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1703,12 +1703,12 @@
           "original_tvg_name": "Bein Sports 1",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 299,
+          "latency_ms": 495,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1736,11 +1736,11 @@
           "original_tvg_name": "Bein Sports Extra 2",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 142,
+          "latency_ms": 401,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1770,12 +1770,12 @@
           "original_tvg_name": "Bleav Football",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 200,
+          "latency_ms": 142,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1805,12 +1805,12 @@
           "original_tvg_name": "DD Sports",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 634,
+          "latency_ms": 715,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -1839,11 +1839,11 @@
           "original_tvg_name": "FIFA+",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 343,
+          "latency_ms": 846,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1873,11 +1873,11 @@
           "original_tvg_name": "Goal TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 992,
+          "latency_ms": 3401,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1906,11 +1906,11 @@
           "original_tvg_name": "Horse & Country",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 311,
+          "latency_ms": 792,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1939,11 +1939,11 @@
           "original_tvg_name": "KTV Sport Plus",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 559,
+          "latency_ms": 1396,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -1972,11 +1972,11 @@
           "original_tvg_name": "More Then Sports TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1437,
+          "latency_ms": 1810,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2005,11 +2005,11 @@
           "original_tvg_name": "MTRSPT",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 354,
+          "latency_ms": 304,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2038,11 +2038,11 @@
           "original_tvg_name": "NBC Sports",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 103,
+          "latency_ms": 576,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2072,11 +2072,11 @@
           "original_tvg_name": "Oman Sports TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 578,
+          "latency_ms": 1941,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2105,11 +2105,11 @@
           "original_tvg_name": "speed sports 1",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 345,
+          "latency_ms": 681,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2138,11 +2138,11 @@
           "original_tvg_name": "Sports First TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 365,
+          "latency_ms": 236,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2171,11 +2171,11 @@
           "original_tvg_name": "Sports Fishing TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 594,
+          "latency_ms": 1531,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2204,11 +2204,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 187,
+          "latency_ms": 493,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2237,12 +2237,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 4617,
+          "latency_ms": 4690,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2270,11 +2270,11 @@
           "original_tvg_name": "Trace Sport",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 687,
+          "latency_ms": 1407,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2303,11 +2303,11 @@
           "original_tvg_name": "Willow Extra",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1017,
+          "latency_ms": 942,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2336,11 +2336,11 @@
           "original_tvg_name": "WOF 1",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 787,
+          "latency_ms": 1212,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2369,11 +2369,11 @@
           "original_tvg_name": "Xtrem Sports",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 379,
+          "latency_ms": 1277,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2402,11 +2402,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 531,
+          "latency_ms": 3092,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2435,11 +2435,11 @@
           "original_tvg_name": "DD Bangla",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 38,
+          "latency_ms": 311,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2471,11 +2471,11 @@
           "original_tvg_name": "Deshi TV (720p)",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 269,
+          "latency_ms": 417,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2504,11 +2504,11 @@
           "original_tvg_name": "Enter 10 Bangla",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1314,
+          "latency_ms": 898,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2537,12 +2537,12 @@
           "original_tvg_name": "Geo ENT",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 97,
+          "latency_ms": 116,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2570,11 +2570,11 @@
           "original_tvg_name": "R Plus",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1203,
+          "latency_ms": 1422,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2604,11 +2604,11 @@
           "original_tvg_name": "Rongeen TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1355,
+          "latency_ms": 1220,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         },
         {
@@ -2624,11 +2624,11 @@
           "original_tvg_name": "Rongeen TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1134,
+          "latency_ms": 1025,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2657,11 +2657,11 @@
           "original_tvg_name": "Sananda TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 761,
+          "latency_ms": 704,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2691,12 +2691,12 @@
           "original_tvg_name": "Sony ATTH",
           "status": "fail",
           "reason": "ssl_error",
-          "latency_ms": 68,
+          "latency_ms": 133,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2722,14 +2722,14 @@
           "original_logo": "https://i.imgur.com/IlufzR5.png",
           "original_tvg_id": "StarJalsha.in@SD",
           "original_tvg_name": "",
-          "status": "fail",
-          "reason": "http_458",
-          "latency_ms": 265,
+          "status": "ok",
+          "reason": "raw_stream_bytes_ok",
+          "latency_ms": 1724,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": null,
-          "fail_count": 6
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
+          "fail_count": 0
         },
         {
           "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
@@ -2744,12 +2744,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5252,
+          "latency_ms": 5214,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2777,11 +2777,11 @@
           "original_tvg_name": "TV9 Bangla",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1488,
+          "latency_ms": 1364,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2808,14 +2808,14 @@
           "original_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
           "original_tvg_id": "ZeeBangla.in@HD",
           "original_tvg_name": "",
-          "status": "fail",
-          "reason": "segment_http_416",
-          "latency_ms": 253,
+          "status": "ok",
+          "reason": "hls_segment_ok",
+          "latency_ms": 539,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-21T19:59:53Z",
-          "fail_count": 1
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
+          "fail_count": 0
         }
       ]
     },
@@ -2843,12 +2843,12 @@
           "original_tvg_name": "Zee Bangla Sonar",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 4674,
+          "latency_ms": 4608,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2876,12 +2876,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5245,
+          "latency_ms": 5208,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -2909,11 +2909,11 @@
           "original_tvg_name": "Action Hollywood Movies",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1649,
+          "latency_ms": 1697,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2942,11 +2942,11 @@
           "original_tvg_name": "Bhojpuri Cinema",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1548,
+          "latency_ms": 1440,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -2975,11 +2975,11 @@
           "original_tvg_name": "Cowboy Movie Channel",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 721,
+          "latency_ms": 956,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3008,11 +3008,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1183,
+          "latency_ms": 1389,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3041,11 +3041,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 782,
+          "latency_ms": 816,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3074,11 +3074,11 @@
           "original_tvg_name": "Movie Sphere",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 173,
+          "latency_ms": 585,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3107,12 +3107,12 @@
           "original_tvg_name": "Rakuten Movies",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 266,
+          "latency_ms": 402,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3140,12 +3140,12 @@
           "original_tvg_name": "Shemaroo Bollywood",
           "status": "fail",
           "reason": "not_a_valid_playlist",
-          "latency_ms": 582,
+          "latency_ms": 324,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3173,11 +3173,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "raw_stream_bytes_ok",
-          "latency_ms": 228,
+          "latency_ms": 242,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3206,11 +3206,11 @@
           "original_tvg_name": "30A Music",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1404,
+          "latency_ms": 1365,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3239,12 +3239,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 1988,
+          "latency_ms": 241,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3272,11 +3272,11 @@
           "original_tvg_name": "Hindi Hits HD",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 346,
+          "latency_ms": 575,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3305,12 +3305,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 4618,
+          "latency_ms": 4634,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3338,12 +3338,12 @@
           "original_tvg_name": "Music India",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 677,
+          "latency_ms": 744,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3371,11 +3371,11 @@
           "original_tvg_name": "Music TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 462,
+          "latency_ms": 644,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3404,11 +3404,11 @@
           "original_tvg_name": "TNT Music",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 1229,
+          "latency_ms": 2603,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3437,11 +3437,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 835,
+          "latency_ms": 1418,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3470,11 +3470,11 @@
           "original_tvg_name": "Dios Te Ve Kids",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 98,
+          "latency_ms": 371,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3503,12 +3503,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22595,
+          "latency_ms": 22660,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3536,12 +3536,12 @@
           "original_tvg_name": "Kids Pang TV",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 4901,
+          "latency_ms": 4715,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3569,12 +3569,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5248,
+          "latency_ms": 5221,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3602,12 +3602,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5248,
+          "latency_ms": 5217,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3636,12 +3636,12 @@
           "original_tvg_name": "PBS Kids",
           "status": "fail",
           "reason": "playlist_has_no_segments",
-          "latency_ms": 189,
+          "latency_ms": 214,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3669,12 +3669,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "timeout",
-          "latency_ms": 22513,
+          "latency_ms": 22517,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -3702,11 +3702,11 @@
           "original_tvg_name": "TVCARiB Kids & Teens",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 340,
+          "latency_ms": 430,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3735,11 +3735,11 @@
           "original_tvg_name": "Adventure Earth",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 252,
+          "latency_ms": 515,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3768,11 +3768,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 909,
+          "latency_ms": 1120,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3801,11 +3801,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 891,
+          "latency_ms": 1082,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3834,11 +3834,11 @@
           "original_tvg_name": "Persiana Travel",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 565,
+          "latency_ms": 641,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3867,11 +3867,11 @@
           "original_tvg_name": "4k Travel",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 981,
+          "latency_ms": 1775,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3900,11 +3900,11 @@
           "original_tvg_name": "Travel XP",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 431,
+          "latency_ms": 588,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3933,11 +3933,11 @@
           "original_tvg_name": "Wild TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 400,
+          "latency_ms": 296,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3966,11 +3966,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 178,
+          "latency_ms": 406,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -3999,12 +3999,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 83,
+          "latency_ms": 107,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -4032,11 +4032,11 @@
           "original_tvg_name": "",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 444,
+          "latency_ms": 805,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4065,12 +4065,12 @@
           "original_tvg_name": "Channel Win",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 631,
+          "latency_ms": 713,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -4098,12 +4098,12 @@
           "original_tvg_name": "CMAC TV",
           "status": "fail",
           "reason": "http_403_access_restricted",
-          "latency_ms": 195,
+          "latency_ms": 93,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -4131,11 +4131,11 @@
           "original_tvg_name": "Court TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 427,
+          "latency_ms": 676,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4164,11 +4164,11 @@
           "original_tvg_name": "InTravel",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 569,
+          "latency_ms": 972,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4197,11 +4197,11 @@
           "original_tvg_name": "OAN",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 515,
+          "latency_ms": 207,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4230,11 +4230,11 @@
           "original_tvg_name": "Pardesi TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 262,
+          "latency_ms": 266,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4263,12 +4263,12 @@
           "original_tvg_name": "",
           "status": "fail",
           "reason": "connection_error: ConnectionError",
-          "latency_ms": 5247,
+          "latency_ms": 5220,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -4296,11 +4296,11 @@
           "original_tvg_name": "Persiana Korea",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 366,
+          "latency_ms": 768,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4329,11 +4329,11 @@
           "original_tvg_name": "Power Turk",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 2039,
+          "latency_ms": 2695,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4362,12 +4362,12 @@
           "original_tvg_name": "RTV Islam",
           "status": "fail",
           "reason": "http_404_not_found",
-          "latency_ms": 504,
+          "latency_ms": 772,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
           "last_ok": null,
-          "fail_count": 6
+          "fail_count": 7
         }
       ]
     },
@@ -4395,11 +4395,11 @@
           "original_tvg_name": "TBS",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 2414,
+          "latency_ms": 1964,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
@@ -4428,11 +4428,11 @@
           "original_tvg_name": "World War TV",
           "status": "ok",
           "reason": "hls_segment_ok",
-          "latency_ms": 972,
+          "latency_ms": 1476,
           "first_seen": "2026-11-20T17:10:12Z",
-          "last_seen": "2026-11-22T00:17:06Z",
-          "last_checked": "2026-11-22T00:17:06Z",
-          "last_ok": "2026-11-22T00:17:06Z",
+          "last_seen": "2026-11-22T07:19:16Z",
+          "last_checked": "2026-11-22T07:19:16Z",
+          "last_ok": "2026-11-22T07:19:16Z",
           "fail_count": 0
         }
       ]
