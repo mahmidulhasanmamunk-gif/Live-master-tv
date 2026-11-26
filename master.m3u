@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated 2026-11-25T22:16:32Z by IPTV-MASTER (direct)
+# Generated 2026-11-26T04:18:52Z by IPTV-MASTER (direct)
 #EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-name="DBC News" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="Bangla News",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id="EkhonTV.bd@SD" tvg-name="Ekhon TV" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla News",Ekhon TV
@@ -146,6 +146,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="791d2a93-1736-4114-852e-2331fa441799" tvg-name="Rongeen TV" tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="International Entertainment",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sananda TV" tvg-logo="" group-title="International Entertainment",Sananda TV
+http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="79c26f90-3a3e-43eb-9173-1c78bbbd5013" tvg-name="Sony ATTH" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="International Entertainment",Sony ATTH
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="International Entertainment",Star Jalsha
