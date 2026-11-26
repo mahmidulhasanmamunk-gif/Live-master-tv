@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated 2026-11-26T04:18:52Z by IPTV-MASTER (direct)
+# Generated 2026-11-26T14:16:38Z by IPTV-MASTER (direct)
 #EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-name="DBC News" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="Bangla News",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id="EkhonTV.bd@SD" tvg-name="Ekhon TV" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla News",Ekhon TV
@@ -12,8 +12,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Sports",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports
-http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports (720p)" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports
+https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Bangladeshi Entertainment",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MaasrangaTV.bd@SD" tvg-name="Maasranga TV" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="Bangladeshi Entertainment",Maasranga TV
@@ -32,6 +32,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangladeshi General TV",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV (720p)" tvg-logo="" group-title="Bangladeshi General TV",Duronto TV
+https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-name="Green TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladeshi General TV",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M3UWorld4K.bd@HD" tvg-name="M3U World 4K (1080p)" tvg-logo="https://i.imgur.com/9V6lrgV.png" group-title="Bangladeshi General TV",M3U World
@@ -46,7 +48,7 @@ http://live.playmax.live/matribhumi/index.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="MyTV.bd@SD" tvg-name="My TV Bangladesh" tvg-logo="https://i.imgur.com/475qK5T.png" group-title="Bangladeshi General TV",My TV Bangladesh
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-name="Rajdhani TV" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="Bangladeshi General TV",Rajdhani TV
+#EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-name="Rajdhani TV (1080p)" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="Bangladeshi General TV",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="RTV.bd@SD" tvg-name="RTV Bangladesh" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="Bangladeshi General TV",RTV Bangladesh
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
@@ -136,7 +138,7 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-id="8df44874-5511-4c78-a854-8ab6dd6861e5" tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="International Entertainment",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-name="Deshi TV (720p)" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="International Entertainment",Deshi TV
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-name="Deshi TV" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="International Entertainment",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="1092effd-ec5f-4842-a9eb-09db84a23415" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="International Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
@@ -172,8 +174,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="61b39e9d-7b21-414a-8050-a6d8cf68363b" tvg-name="Rakuten Movies" tvg-logo="https://s3.aynaott.com/storage/22af43810a37af9a151f1e0a23adde63" group-title="Movies",Rakuten Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="" group-title="Movies",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png" group-title="Movies",X fire Flix
 https://raw.githubusercontent.com/HelloPeopleTv4you/live/refs/heads/main/byxfireflix/BY-X-FIRE-FLIX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30A Music" tvg-logo="" group-title="Music",30A Music
