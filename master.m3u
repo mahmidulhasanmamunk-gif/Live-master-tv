@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated 2026-11-27T15:29:44Z by IPTV-MASTER (direct)
+# Generated 2026-11-27T23:41:43Z by IPTV-MASTER (direct)
 #EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-name="DBC News" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="Bangla News",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-id="EkhonTV.bd@SD" tvg-name="Ekhon TV" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla News",Ekhon TV
@@ -12,7 +12,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Sports",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports (720p)" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-name="Ananda TV" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Bangladeshi Entertainment",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
@@ -32,8 +32,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangladeshi General TV",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duronto TV (720p)" tvg-logo="" group-title="Bangladeshi General TV",Duronto TV
-https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-name="Green TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladeshi General TV",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M3UWorld4K.bd@HD" tvg-name="M3U World 4K (1080p)" tvg-logo="https://i.imgur.com/9V6lrgV.png" group-title="Bangladeshi General TV",M3U World
@@ -138,7 +136,7 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-id="8df44874-5511-4c78-a854-8ab6dd6861e5" tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="International Entertainment",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-name="Deshi TV" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="International Entertainment",Deshi TV
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-name="Deshi TV (720p)" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="International Entertainment",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="1092effd-ec5f-4842-a9eb-09db84a23415" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="International Entertainment",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
@@ -148,8 +146,6 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="791d2a93-1736-4114-852e-2331fa441799" tvg-name="Rongeen TV" tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="International Entertainment",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sananda TV" tvg-logo="" group-title="International Entertainment",Sananda TV
-http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="79c26f90-3a3e-43eb-9173-1c78bbbd5013" tvg-name="Sony ATTH" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="International Entertainment",Sony ATTH
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="International Entertainment",Star Jalsha
